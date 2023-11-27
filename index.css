@@ -276,7 +276,7 @@ color:#073e72;
   display: flex;
   align-items: center;
   margin-bottom: 15rem;
-  margin-top: auto;
+  margin-top: 10rem;
 
 }
 .pricing-top img{
@@ -672,6 +672,9 @@ margin-bottom: 5rem;
   .products-top h1{
     font-size: 7rem;
   }
+  .pricing-top{
+    margin-top: 60%;
+  }
   .pricing-top img{
     width: 40rem;
   }
@@ -709,6 +712,9 @@ margin-bottom: 5rem;
 .products-icons div span{
   font-size: 1.8rem;
 }
+ .pricing-top{
+    margin-top: 50%;
+  }
 .pricing-top img{
   width: 30rem;
 }
@@ -783,6 +789,7 @@ margin-bottom: 5rem;
   .pricing-top{
     text-align: center;
     margin-bottom: 3rem;
+    margin-top: 3rem;
   }
   .pricing-top img{
     height: 20%;
